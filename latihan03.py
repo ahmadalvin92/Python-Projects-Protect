@@ -22,7 +22,7 @@ skrg = datetime.datetime.now()
 usia = skrg.year - thnLahir
 
 # tampilkan usia
-print("Hmmm...", namax,"kamu sudah", usia,"tahun ya..")
+print("Hmmm...", nama,"kamu sudah", usia,"tahun ya..")
 
 # kasih jeda 3 detik
 time.sleep(3)
